@@ -391,27 +391,33 @@ An AI-driven application focused on analyzing and interpreting financial informa
 
 <div align="center">
 
+<a href="https://github.com/Nareshk-97">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Nareshk-97&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=8b5cf6&text_color=e4e4e7"
-  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Nareshk-97&show_icons=true&theme=radical&hide_border=true"
+  width="48%"
 />
+</a>
 
+<a href="https://github.com/Nareshk-97">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshk-97&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=e4e4e7"
-  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshk-97&layout=compact&theme=radical&hide_border=true"
+  width="40%"
 />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Nareshk-97">
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshk-97&theme=dark&hide_border=true"
+  width="55%"
+/>
+</a>
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=Nareshk-97&hide_border=true&background=09090b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e4e4e7&dates=71717a&currStreakNum=ffffff&sideNums=ffffff"
-  width="500"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshk-97&bg_color=09090b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshk-97&theme=high-contrast&hide_border=true"
   width="95%"
 />
 
