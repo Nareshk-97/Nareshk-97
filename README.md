@@ -1,36 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:7c3aed,100:a78bfa&height=240&section=header&text=Naresh%20Kille&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PYTHON%20%E2%80%A2%20REACT%20%E2%80%A2%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:3b0764,100:7c3aed&height=250&section=header&text=Naresh%20Kille&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PYTHON%20%E2%80%A2%20REACT%20%E2%80%A2%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Creating+intelligent+AI+solutions;Turning+ideas+into+real+projects;Always+learning.+Always+building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+modern+web+applications;Creating+intelligent+AI-powered+solutions;Python+%7C+React+%7C+AI+%7C+Machine+Learning;Turning+ideas+into+real-world+projects;Always+learning.+Always+building." />
 
 <br><br>
 
 <a href="https://nareshkille.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;
+
+<a href="https://github.com/Nareshk-97">
+<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/nareshkille/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://leetcode.com/u/Naresh_97/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/🧩%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:nareshkkille97@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📧%20EMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Nareshk-97&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Nareshk-97&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
 
 </div>
 
 ---
+
+<div align="center">
+
+### ⚡ BUILDING THE FUTURE WITH CODE & AI
+
+`Python` • `React` • `AI/ML` • `Generative AI` • `MySQL`
+
+</div>
+
+---
+
+## 👋 About Me
+
 
 ## 👋 About Me
 
