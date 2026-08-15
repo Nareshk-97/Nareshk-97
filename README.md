@@ -131,49 +131,56 @@ I enjoy transforming ideas into **real-world applications** by combining clean c
 
 ---
 
-
-
 ## 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
 
 <br><br>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap" />
 
 <br><br>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+<img src="https://skillicons.dev/icons?i=flask,django" />
 
 <br><br>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
 <br><br>
 
-### 🗄️ Database & Cloud
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,gcp" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 
 <br><br>
 
-### 🧰 Developer Tools
+### ☁️ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Python** • **React** • **Flask** • **Django** • **AI/ML** • **MySQL** • **Google Cloud**
 
 </div>
 
 ---
+
 
 ## 🚀 Featured Projects
 
