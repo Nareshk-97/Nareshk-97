@@ -48,38 +48,90 @@
 
 ## 👋 About Me
 
+<div align="center">
 
-## 👋 About Me
+### Hi, I'm **Naresh Kille** 👨‍💻
+
+**Software Developer | Python | React | AI/ML**
+
+</div>
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-### Hi, I'm Naresh 👨‍💻
+### 🚀 Who I Am
 
-I'm a **Software Developer** interested in building modern web applications, backend systems, and intelligent AI-powered solutions.
+I'm a **Computer Science Engineering graduate and Software Developer** passionate about building modern web applications, backend systems, and intelligent AI-powered solutions.
 
-I enjoy turning ideas into practical projects using **Python, React, AI/ML, databases, and cloud technologies**.
+I enjoy transforming ideas into **real-world applications** by combining clean code, thoughtful design, problem-solving, and emerging technologies.
 
-- 💻 Software Development
-- 🐍 Python & Full-Stack Development
-- ⚛️ React & Modern Web Applications
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Google Cloud & Generative AI
-- 🧠 DSA & Problem Solving
-- 🚀 Building real-world projects
+### 💡 What I Do
+
+- 🐍 Build applications using **Python**
+- ⚛️ Develop modern interfaces with **React**
+- 🔧 Create backend applications and **REST APIs**
+- 🤖 Explore **Artificial Intelligence & Machine Learning**
+- 🧠 Practice **Data Structures & Algorithms**
+- 🗄️ Work with relational databases such as **MySQL**
+- ☁️ Explore **Google Cloud & Generative AI**
+- 🚀 Build and deploy practical software projects
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshk-97&bg_color=09090b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%" />
+<div align="center">
+
+### ⚡ My Focus
+
+<br>
+
+**SOFTWARE DEVELOPMENT**
+
+⬇️
+
+**PYTHON & FULL STACK**
+
+⬇️
+
+**AI / MACHINE LEARNING**
+
+⬇️
+
+**PROBLEM SOLVING**
+
+⬇️
+
+**CONTINUOUS LEARNING**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,react,tensorflow,mysql,gcp" />
+
+</div>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+### 🎯 Currently Focused On
+
+`Full-Stack Development` • `AI/ML` • `Generative AI` • `DSA` • `Real-World Projects`
+
+<br><br>
+
+> **"Build. Learn. Improve. Repeat."** 🚀
+
+</div>
+
 ---
+
+
 
 ## 🛠️ Technology Stack
 
