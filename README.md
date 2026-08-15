@@ -309,34 +309,79 @@ An AI-driven application focused on analyzing and interpreting financial informa
 
 <div align="center">
 
-| Certification | Platform |
-|---|---|
-| 🤖 Artificial Intelligence & Machine Learning | Certification |
-| ☁️ Google Cloud Generative AI | Google Cloud |
-| 🐍 Python | HackerRank |
-| ☁️ Google Cloud Computing | Credly |
-
-</div>
+### 🎓 Professional Certifications
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<br><br>
 
 <a href="https://drive.google.com/file/d/1kHa47ATjvthFf-vBfewfJZfBru4VLahC/view">
-<img src="https://img.shields.io/badge/AI%20%26%20ML-VIEW%20CERTIFICATE-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-A78BFA?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1WieR36KOtNy45nfcytCBlmm6VF_8P65d/view">
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-VIEW%20CERTIFICATE-8B5CF6?style=for-the-badge" />
+</td>
+
+<td align="center" width="50%">
+
+### ☁️ Google Cloud Generative AI
+
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1WieR36KOtNy45nfcytCblmm6VF_8P65d/view">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-A78BFA?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🐍 Python
+
+<img src="https://img.shields.io/badge/Python-FFA116?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
 
 <a href="https://www.hackerrank.com/certificates/5533ad2c12ba">
-<img src="https://img.shields.io/badge/PYTHON-VIEW%20CERTIFICATE-FFA116?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-FFA116?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
+</td>
+
+<td align="center" width="50%">
+
+### ☁️ Google Cloud Computing
+
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<br><br>
+
 <a href="https://www.credly.com/badges/b2438ea0-d5a7-4778-8cca-7905093ed97e/linked_in_profile">
-<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-VIEW%20CERTIFICATE-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-4285F4?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="80%" />
+
+<br>
+
+**4 Certifications** &nbsp;•&nbsp; **AI/ML** &nbsp;•&nbsp; **Generative AI** &nbsp;•&nbsp; **Python** &nbsp;•&nbsp; **Cloud Computing**
 
 </div>
 
@@ -346,31 +391,68 @@ An AI-driven application focused on analyzing and interpreting financial informa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nareshk-97&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=8b5cf6&text_color=d4d4d8&bg_color=09090b" height="180" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Nareshk-97&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=8b5cf6&text_color=e4e4e7"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshk-97&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=d4d4d8&bg_color=09090b" height="180" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshk-97&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=e4e4e7"
+  height="180"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Nareshk-97&theme=transparent&hide_border=true&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=d4d4d8&dates=71717a" />
+<img
+  src="https://streak-stats.demolab.com?user=Nareshk-97&hide_border=true&background=09090b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e4e4e7&dates=71717a&currStreakNum=ffffff&sideNums=ffffff"
+  width="500"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshk-97&bg_color=09090b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true"
+  width="95%"
+/>
 
 </div>
 
 ---
 
-## 🧩 Problem Solving
+## 🧩 Problem Solving & DSA
 
 <div align="center">
 
+### 🧠 Sharpening My Problem-Solving Skills
+
+<br>
+
 <a href="https://leetcode.com/u/Naresh_97/">
-
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <br><br>
 
-**Practicing Data Structures & Algorithms and continuously improving problem-solving skills.**
+<img
+  src="https://leetcard.jacoblin.cool/Naresh_97?theme=dark&font=Baloo&ext=heatmap"
+  width="500"
+/>
+
+<br><br>
+
+### 💡 Areas I'm Practicing
+
+`Data Structures` • `Algorithms` • `Problem Solving` • `Python`
+
+<br>
+
+`Arrays` • `Strings` • `Hashing` • `Searching` • `Sorting`
+
+<br><br>
+
+<a href="https://leetcode.com/u/Naresh_97/">
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 </div>
 
@@ -379,6 +461,15 @@ An AI-driven application focused on analyzing and interpreting financial informa
 ## 🌐 Let's Connect
 
 <div align="center">
+
+### 🤝 Let's Build Something Amazing Together
+
+<br>
+
+I'm always interested in connecting with developers, recruiters,  
+and people building interesting technology.
+
+<br><br>
 
 <a href="https://nareshkille.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge" />
@@ -392,18 +483,21 @@ An AI-driven application focused on analyzing and interpreting financial informa
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/Naresh_97/">
+<img src="https://img.shields.io/badge/🧩%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 <a href="mailto:nareshkkille97@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-A78BFA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📧%20EMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-### 💜 Building • Learning • Improving
+### 💜 Build. Learn. Improve.
 
 </div>
 
 ---
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:8b5cf6,100:a78bfa&height=120&section=footer" width="100%" />
