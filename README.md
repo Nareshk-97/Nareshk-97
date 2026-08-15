@@ -181,92 +181,125 @@ I enjoy transforming ideas into **real-world applications** by combining clean c
 
 ---
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🤖 Code Reviewer AI
 
-AI-powered code review platform designed to analyze source code and provide intelligent feedback.
+**AI-Powered Code Review Platform**
 
-**Tech**
-
-`React` `Vite` `Python` `Flask` `MySQL` `AI`
+A modern web application designed to analyze source code and provide intelligent feedback using AI-powered analysis.
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=react,vite,python,flask,mysql" />
+
+<br><br>
+
+`React` • `Vite` • `Python` • `Flask` • `MySQL` • `AI`
+
+<br><br>
+
 <a href="https://github.com/Nareshk-97/Code-Reviewer-AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br>
+
+---
+
+<div align="center">
 
 ### 🧬 FedGT
 
-Federated Learning project focused on identifying malicious clients while preserving privacy through secure aggregation.
+**Identification of Malicious Clients in Federated Learning**
 
-**Tech**
-
-`Python` `Flask` `Machine Learning` `Federated Learning`
+A Federated Learning system designed to identify malicious clients while preserving data privacy through secure aggregation.
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=python,flask" />
+
+<br><br>
+
+`Python` • `Flask` • `Machine Learning` • `Federated Learning` • `Secure Aggregation`
+
+<br><br>
+
 <a href="https://github.com/Nareshk-97">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
+</div>
 
-</tr>
+<br>
 
-<tr>
+---
 
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🎨 Pattern-Sense
 
-Deep-learning based fabric pattern classification project using CNN and computer vision techniques.
+**Fabric Pattern Classification Using Deep Learning**
 
-**Tech**
-
-`Python` `TensorFlow` `Keras` `CNN` `OpenCV`
+A deep-learning based image classification project that recognizes different fabric patterns using CNN and computer vision techniques.
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
+<br><br>
+
+`Python` • `TensorFlow` • `Keras` • `CNN` • `OpenCV`
+
+<br><br>
+
 <a href="https://github.com/Nareshk-97/pattern-sence-classifying-fabric-patterns-using-deep-learning">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br>
+
+---
+
+<div align="center">
 
 ### 💰 Gemini Pro Financial Decoder
 
-AI-powered financial analysis application designed to process and interpret financial information.
+**AI-Powered Financial Analysis Platform**
 
-**Tech**
-
-`Python` `AI` `Generative AI` `Streamlit`
+An AI-driven application focused on analyzing and interpreting financial information using Generative AI.
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+`Python` • `Generative AI` • `Financial Analysis` • `Streamlit`
+
+<br><br>
+
 <a href="https://github.com/Nareshk-97">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
+</div>
 
-</tr>
-</table>
+<br>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Nareshk-97?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
